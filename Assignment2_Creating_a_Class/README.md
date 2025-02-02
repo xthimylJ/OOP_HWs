@@ -1,24 +1,7 @@
-## my first markdown in vscode!
-**bold**  
-*italic*  
-***both bold and italic***  
-~~crossed off~~  
-<mark>highliting</mark>  
-x<sup>2</sup>  
-H<sub>2</sub>O
+## I've chosen to create 'Student' Class  
 
-`print("Hello World")` for code  
+> ### StudentClass.py  
+> The class has four required attributes to pass and 1 optional attribute `on_internship` , which is `None` by default. The class has two methods: `display_info()` and `is_writing()`  
 
-```py
-for i in range(10):
-    print(i)
-```  
-
-[Link to the google](https://www.google.ru/?hl=ru)  
-
->fhhfjfj  
->fjfjfkjffj  
-  
-* fjfjjfkdkkfjdk  
-* jfjfkfj
-
+> ### StudentClassObjs.py  
+> This is the actual main file with all the required testings included in it.
