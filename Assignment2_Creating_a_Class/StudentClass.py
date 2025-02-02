@@ -24,5 +24,5 @@ class Student:
         return f"{self.name} is writing."
                
                
-        
+
                
