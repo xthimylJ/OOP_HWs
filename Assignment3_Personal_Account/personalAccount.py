@@ -6,7 +6,7 @@ class PesonalAccount:
         # instance attributes
         self.__account_number = account_number
         self.__account_holder = account_holder
-        self.__balance = 0
+        self.__balance = 0.0
         self.__transactions = [] 
     
 

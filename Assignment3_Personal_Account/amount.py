@@ -1,7 +1,7 @@
 from datetime import datetime
 
 class Amount:
-    def __init__(self, amount,  transaction_type):
+    def __init__(self, amount: float,  transaction_type):
         self.amount = amount 
         self.timestamp = datetime.now()
         self.transaction_type = transaction_type
