@@ -34,7 +34,7 @@
    ```  
 
 ## UML diagram  
-![Relative](/UML_diagram.png)  
+<img width='850' alt="Снимок экрана 2025-02-19 в 00 42 18" src=https://github.com/xthimylJ/OOP_HWs/blob/main/Assignment4_User_Class_Method/UML_diagram.png>  
 
 ## Sample output  
 
