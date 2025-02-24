@@ -68,18 +68,7 @@ class Cart:
       
 """
 Smartphone 
-"""
-sm1 = Smartphone("iPhone15", 1100, 20, 1, 6.7, 15000)
-sm2 = Smartphone("Redmi", 450, 50, 1, 6.7, 15000)
-
-cart1 = Cart()
-cart1.add_device(sm1, 5)
-cart1.remove_device(sm1, 3)
-cart1.print_items()
-cart1.add_device(sm2, 1)
-
-print(cart1.checkout() )     
-print(sm1.stock)
+""" 
 
 
 # random note
