@@ -52,7 +52,7 @@ while True:
         # Prompt user to select a device to add to the cart
         
         selection = int(input("Enter the number of the device to add to your cart (0 to cancel): "))
-        sel_amount = int(input("Enter amount in which you want to puchase the selecteted device: "))
+        sel_amount = int(input("Enter amount in which you want to puchase the selected device: "))
         if 1 <= selection <= len(all_devices):
             selected_device = all_devices[selection - 1]
             cart.add_device(selected_device, sel_amount)  
