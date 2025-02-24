@@ -23,8 +23,7 @@ class Smartphone(Device):
         return f"Smartphone: {self.name}"
     
 
-sm1 = Smartphone("iPhone15", 1100, 20, 1, 6.7, 15000)
-print(sm1.display_info())
+
 
 # random note
 """We can call a static method in two ways:
