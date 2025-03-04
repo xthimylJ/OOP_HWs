@@ -59,7 +59,21 @@ bmi_app.py
 - ```screenshots_bmi``` folder contains usage sample screenshots 
 
 ## Screenshots  
-![BMI Calculator Screenshot](https://github.com/xthimylJ/OOP_HWs/blob/main/GUI_app/screenshots_bmi/metric_unit.png)
+- #### metric_units  
+![BMI Calculator Screenshot](https://github.com/xthimylJ/OOP_HWs/blob/main/GUI_app/screenshots_bmi/metric_unit.png)  
+
+- #### imperial_units  
+
+![BMI Calculator Screenshot](https://github.com/xthimylJ/OOP_HWs/blob/main/GUI_app/screenshots_bmi/imperial_unit.png)  
+
+- #### menu_file  
+![BMI Calculator Screenshot](https://github.com/xthimylJ/OOP_HWs/blob/main/GUI_app/screenshots_bmi/menu_file.png)  
+
+- #### menu_help  
+![BMI Calculator Screenshot](https://github.com/xthimylJ/OOP_HWs/blob/main/GUI_app/screenshots_bmi/menu_help.png)
+
+
+
 
 
 
