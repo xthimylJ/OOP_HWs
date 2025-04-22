@@ -22,6 +22,9 @@ The application allows admin to view availability of rooms on the choosen date, 
 
 ## Screenshots of key aspects of the the project  
 #### The app itself  
-![booking app](https://github.com/xthimylJ/OOP_HWs/blob/main/Hotel_Booking_System/Screenshots%20of%20key%20aspects/home_page.png)
+![booking app](https://github.com/xthimylJ/OOP_HWs/blob/main/Hotel_Booking_System/Screenshots%20of%20key%20aspects/home_page.png)  
+![booking app](https://github.com/xthimylJ/OOP_HWs/blob/main/Hotel_Booking_System/Screenshots%20of%20key%20aspects/Customer%20management%20page.png)  
+![booking app](https://github.com/xthimylJ/OOP_HWs/blob/main/Hotel_Booking_System/Screenshots%20of%20key%20aspects/viewing%20rooms.png)  
+![booking app](https://github.com/xthimylJ/OOP_HWs/blob/main/Hotel_Booking_System/Screenshots%20of%20key%20aspects/booking%20management.png)
     
         
