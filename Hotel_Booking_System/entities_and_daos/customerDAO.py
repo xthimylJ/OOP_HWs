@@ -1,8 +1,12 @@
 import sqlite3
 from .entiites import Customer
+import os
 
 class CustomerDAO:
-    def __init__(self, dbfile = "C:\OOP_HWs\Hotel_Booking_System\hotelBookingSystem.sqlite"):
+    def __init__(self, dbfile = None):
+        if dbfile is None:
+            base_dir = os.path.dirname(os.path.abspath(__file__))
+            dbfile = os.path.join(base_dir, "..", "hotelBookingSystem.sqlite")
         self.connection = sqlite3.connect(dbfile)
         self.cursor = self.connection.cursor()
 
