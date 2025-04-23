@@ -20,8 +20,8 @@ class Room_Management_Page(QWidget):
         self.ui.calendarWidget.selectionChanged.connect(self.update_label)
     
     def update_label(self):
-        selected_date = self.ui.calendarWidget.selectedDate()  # QDate object
-        date_str = selected_date.toString("dd-MM-yyyy")  # Format it however you like
+        selected_date = self.ui.calendarWidget.selectedDate()  
+        date_str = selected_date.toString("dd-MM-yyyy")  
         self.ui.selected_date_label.setText(date_str)
 
     def view_rooms(self):
