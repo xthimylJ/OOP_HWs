@@ -36,5 +36,8 @@ The application allows admin to view availability of rooms on the choosen date, 
 ![booking app](https://github.com/xthimylJ/OOP_HWs/blob/main/Hotel_Booking_System/Screenshots%20of%20key%20aspects/uml.jpg)  
 
 ## Weekly meetings report  
-[Weekly meeting report](https://docs.google.com/document/d/1p8Kz4TczFq06BfZTp1uPNxCI6Cx1P85iXxA07GN_Wzs/edit?usp=sharing)
+[Weekly meeting report](https://docs.google.com/document/d/1p8Kz4TczFq06BfZTp1uPNxCI6Cx1P85iXxA07GN_Wzs/edit?usp=sharing)  
+
+## Commit history  
+[Commit history](https://github.com/xthimylJ/OOP_HWs/commits/main/Hotel_Booking_System)
         
